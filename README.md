@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/jmcanexinet/AZ-400/_apis/build/status%2Fjmcconnell04.js-e2e-express-server?branchName=main)](https://dev.azure.com/jmcanexinet/AZ-400/_build/latest?definitionId=7&branchName=main)
 
 # Contributing
 
